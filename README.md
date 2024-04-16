@@ -1,7 +1,5 @@
 Hi there! 👋 I'm Mohammad Ali
-I'm a final year Computer Science student with a keen interest in machine learning. Passionate about leveraging technology to solve real-world problems, I specialize in Python programming and have extensive experience with TensorFlow and various machine learning libraries.
 
-About Me
 🎓 Final year Computer Science student
 💻 Proficient in Python, TensorFlow, and machine learning libraries
 🤖 Enthusiastic about machine learning and its applications
