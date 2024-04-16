@@ -7,8 +7,7 @@ Hi there! 👋 I'm Mohammad Ali
 Projects
 Check out my latest projects on GitHub
 From data analysis to deep learning models, I love exploring different aspects of machine learning
-Let's Connect
-Connect with me on LinkedIn
+Connect with me on LinkedIn https://www.linkedin.com/in/mohdali02
 Drop me an email at alifaizan20@outlook.com
 Looking forward to connecting with you and exploring the exciting world of machine learning together! 🚀
 
