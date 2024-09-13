@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hello, I'm Mohammad Ali 👋
 
-Hello, and thank you for visiting my GitHub! I'm a **Machine Learning** and **Natural Language Processing** practitioner driven by a deep interest in developing innovative solutions using cutting-edge technologies. Currently in my final year of **BCA**, I focus on utilizing **ML, DL**, and **NLP** to tackle complex, real-world challenges.
+Hello, and thank you for visiting my GitHub! I'm a **Machine Learning** and **Natural Language Processing** practitioner driven by a deep interest in developing innovative solutions using cutting-edge technologies. Currently in my final year of **Computer Science**, I focus on utilizing **ML, DL**, and **NLP** to tackle complex, real-world challenges.
 
 
 ## 🔭 Current Focus
