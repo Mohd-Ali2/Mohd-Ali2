@@ -1,5 +1,35 @@
 # 💫 About Me:
-Hi there! 👋 I'm Mohammad Ali<br><br>🎓 Final year Computer Science student 💻 Proficient in Python, TensorFlow, and machine learning libraries 🤖 Enthusiastic about machine learning and its applications 🌟 Always eager to learn and explore new technologies Projects Check out my latest projects on GitHub From data analysis to deep learning models, I love exploring different aspects of machine learning Connect with me on LinkedIn https://www.linkedin.com/in/mohdali02 Drop me an email at alifaizan20@outlook.com Looking forward to connecting with you and exploring the exciting world of machine learning together! 🚀
+# Hello, I'm Mohammad Ali 👋
+
+Hello, and thank you for visiting my GitHub! I'm a **Machine Learning** and **Natural Language Processing** practitioner driven by a deep interest in developing innovative solutions using cutting-edge technologies. Currently in my final year of **BCA**, I focus on utilizing **ML, DL**, and **NLP** to tackle complex, real-world challenges.
+
+
+## 🔭 Current Focus
+- **Machine Learning**: Implementing scalable models for sentiment analysis, text classification, and predictive modeling.
+- **Deep Learning**: Working on transformer-based architectures like **BERT**, **GPT**, and exploring generative AI models for natural language understanding.
+- **Natural Language Processing (NLP)**: Building chatbots, text summarization tools, and language generation models to understand and generate human language.
+
+## 📚 What I'm Learning
+- **PyTorch**: Diving deeper into **deep learning** with **PyTorch**, especially for developing language models and NLP tasks.
+- **Large Language Models (LLMs)**: Exploring the implementation of LLMs for tasks like **text generation** and **RAG (Retrieval-Augmented Generation)**.
+- **Generative AI (GenAI)**: Exploring how generative models can create new text based on input data.
+
+## 🌱 My Skills
+- **Languages**: Python, JavaScript
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
+- **NLP**: Hugging Face Transformers, NLTK, SpaCy
+- **Web Development**: Streamlit, Flask
+- **Database**: SQLite
+
+## 💡 Goals for 2024
+- Build an end-to-end NLP-based web application that integrates AI models with web technologies.
+- Contribute to open-source projects in **AI** and **ML**.
+- Improve my **LeetCode** problem-solving skills to solidify my algorithmic foundations.
+
+## 🤝 Let's Connect!
+- **[LinkedIn](https://www.linkedin.com/in/mohammadali)**
+- **[Medium](https://medium.com/@mohammadali)** - Helping people to understand ML/DL in a better way
+- **[Twitter](https://twitter.com/mohammadali)**
 
 
 # 💻 Tech Stack:
