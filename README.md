@@ -1,7 +1,7 @@
 # Muhammad Ali
 **Security Operations | Systems & Network Defense**
 
-BCA graduate specializing in Blue Team operations and incident response. Current focus is on L1 SOC methodology, log forensics, and network infrastructure security.
+Dedicated security professional with a technical focus on Blue Team operations, specialized in real-time threat detection and incident response orchestration. Currently focused on advancing L1 SOC methodologies, I specialize in dissecting complex log telemetry to distinguish between environmental noise and genuine adversarial indicators. My expertise bridges the gap between high-level network infrastructure security and granular host-based forensics, ensuring a multi-layered defense strategy. I am actively refining workflows in SIEM environments and traffic analysis to reduce Mean Time to Detect (MTTD) and improve the overall security posture of managed assets.
 
 ---
 
