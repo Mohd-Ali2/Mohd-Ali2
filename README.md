@@ -31,20 +31,8 @@ Dedicated security professional with a technical focus on Blue Team operations, 
 
 ---
 
-### **Technical Projects**
-
-**Home Lab: Wazuh Deployment**
-Configured a centralized Wazuh manager on Ubuntu to monitor multiple endpoints. Implemented custom rules for SSH brute-force detection and file integrity monitoring.
-
-**Network Traffic Forensics**
-Analyzed compromised network traffic captures to identify C2 communication patterns and data exfiltration techniques using Wireshark.
-
-**Automated System Hardening**
-Developed Bash scripts to automate the initial security baseline configuration of fresh Linux installs (UFW setup, SSH hardening, user privilege audits).
-
----
 
 ### **Contact Information**
 * **Location:** Hyderabad, Telangana
-* **LinkedIn:** [[Insert Link]](https://www.linkedin.com/in/mohdali02/)
+* **LinkedIn:** https://www.linkedin.com/in/mohdali02/
 * **Email:** mohammadalifaizan123@gmail.com
