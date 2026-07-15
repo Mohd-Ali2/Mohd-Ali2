@@ -44,16 +44,6 @@ My expertise bridges the gap between high-level network infrastructure security 
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **Splunk Security Lab** | Home lab simulating real-world attacks with detection engineering and dashboard creation | Splunk, Sysmon, Kali Linux |
-| **Threat Detection Rules** | Custom SPL queries for detecting brute force, PowerShell abuse, and lateral movement | Splunk, MITRE ATT&CK |
-| **Network Forensics** | PCAP analysis and traffic investigation exercises | Wireshark, Tshark |
-| **Active Directory Lab** | AD environment with attack simulation and defense strategies | Windows Server, BloodHound, Impacket |
-
----
 
 ## 🛠️ Tech Stack
 
