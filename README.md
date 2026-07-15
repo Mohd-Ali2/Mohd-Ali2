@@ -65,28 +65,9 @@ My expertise bridges the gap between high-level network infrastructure security 
 ![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Ali2&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Ali2&layout=compact&theme=dark&hide_border=true" width="48%" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Ali2&theme=react-dark&hide_border=true)
-
----
-
-## 🏆 Certifications & Training
-
-- CompTIA Security+ (In Progress)
-- Splunk Fundamentals
-- Wireshark Network Analysis
-- MITRE ATT&CK Defender (MAD)
 
 ---
 
