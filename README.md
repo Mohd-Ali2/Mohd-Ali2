@@ -1,28 +1,26 @@
-# Mohammad Ali
-**Security Analyst**
-
-Dedicated security professional with a technical focus on Blue Team operations, specialized in real-time threat detection and incident response orchestration. Currently focused on advancing L1 SOC methodologies, I specialize in dissecting complex log telemetry to distinguish between environmental noise and genuine adversarial indicators. My expertise bridges the gap between high-level network infrastructure security and granular host-based forensics, ensuring a multi-layered defense strategy. I am actively refining workflows in SIEM environments and traffic analysis to reduce Mean Time to Detect (MTTD) and improve the overall security posture of managed assets.
 
 ---
 
-### **Core Competencies**
+### 📝 Instructions for Use
 
-**Security Operations (SOC)**
-* **SIEM/EDR:** Wazuh, Splunk, Elastic Stack (ELK).
-* **Frameworks:** MITRE ATT&CK, NIST 800-61 (Incident Handling).
-* **Analysis:** Log triage, false-positive reduction, and alert enrichment.
+1. **Copy** the entire block above.
+2. **Paste** it into your `README.md` file.
+3. **Replace** `mohdali02` with your actual GitHub username (for the stats and badges).
+4. **Update** the projects section with your actual projects.
+5. **Commit and push** to GitHub.
 
-**Networking & Protocols**
-* **Traffic Analysis:** Wireshark, Tshark, PCAP forensics.
-* **Protocols:** TCP/IP stack, DNS, HTTP/S, SSH, ICMP.
-* **Services:** VPN, Firewall configuration, DHCP/DNS management.
+---
 
-**Technical Environment**
-* **OS:** Linux (Ubuntu, Kali, Debian), Windows Server.
-* **Scripting:** Bash (Automation), Python (Task Scripting).
-* **Tools:** Nmap, Netcat, OpenSSL, Git.
+### 🔧 Customization Tips
 
-### **Contact Information**
-* **Location:** Mumbai, India
-* ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=24)https://www.linkedin.com/in/mohdali02/
-* **Email:** alifaizan20@outlook.com
+| Element | What to Change |
+|---------|----------------|
+| `username=mohdali02` | Replace with your GitHub username |
+| LinkedIn URL | Update if different |
+| Email address | Update if different |
+| Projects table | Add your own projects |
+| Tech Stack badges | Add/remove as needed |
+
+---
+
+Let me know if you want any tweaks!
