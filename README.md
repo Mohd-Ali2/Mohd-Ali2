@@ -22,17 +22,7 @@ Dedicated security professional with a technical focus on Blue Team operations, 
 * **Scripting:** Bash (Automation), Python (Task Scripting).
 * **Tools:** Nmap, Netcat, OpenSSL, Git.
 
----
-
-### **Current Status & Certifications**
-* **Education:** Bachelor of Computer Applications (BCA).
-* **Certifications:** Pursuing Security Analyst Level 1 (SAL1).
-* **Research:** Building localized SIEM environments for log aggregation.
-
----
-
-
 ### **Contact Information**
-* **Location:** Hyderabad, Telangana
+* **Location:** Mumbai, India
 * **LinkedIn:** https://www.linkedin.com/in/mohdali02/
-* **Email:** mohammadalifaizan123@gmail.com
+* **Email:** alifaizan20@outlook.com
