@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali02/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alifaizan20@outlook.com)
 [![Location](https://img.shields.io/badge/-Mumbai,_India-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)]()
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/chan4o)
 
 ---
 
@@ -21,25 +22,25 @@ My expertise bridges the gap between high-level network infrastructure security 
 
 | Area | Skills |
 |------|--------|
-| **SIEM/EDR** | Wazuh, Splunk, Elastic Stack (ELK) |
-| **Frameworks** | MITRE ATT&CK, NIST 800-61 (Incident Handling) |
-| **Analysis** | Log triage, false-positive reduction, alert enrichment, threat hunting |
+| **SIEM/EDR** | Wazuh, Splunk, Elastic Stack (ELK), CrowdStrike |
+| **Frameworks** | MITRE ATT&CK, NIST 800-61 (Incident Handling), Cyber Kill Chain |
+| **Analysis** | Log triage, false-positive reduction, alert enrichment, threat hunting, IOC extraction |
 
 ### 🌐 Networking & Protocols
 
 | Area | Skills |
 |------|--------|
-| **Traffic Analysis** | Wireshark, Tshark, PCAP forensics |
-| **Protocols** | TCP/IP stack, DNS, HTTP/S, SSH, ICMP |
-| **Services** | VPN, Firewall configuration, DHCP/DNS management |
+| **Traffic Analysis** | Wireshark, Tshark, PCAP forensics, Zeek (Bro) |
+| **Protocols** | TCP/IP stack, DNS, HTTP/S, SSH, ICMP, ARP |
+| **Services** | VPN, Firewall configuration, DHCP/DNS management, Proxy |
 
 ### 💻 Technical Environment
 
 | Area | Skills |
 |------|--------|
-| **OS** | Linux (Ubuntu, Kali, Debian), Windows Server |
-| **Scripting** | Bash (Automation), Python (Task Scripting) |
-| **Tools** | Nmap, Netcat, OpenSSL, Git, Metasploit |
+| **OS** | Linux (Ubuntu, Kali, Debian), Windows Server, Windows 10/11 |
+| **Scripting** | Bash (Automation), Python (Task Scripting), PowerShell |
+| **Tools** | Nmap, Netcat, OpenSSL, Git, Metasploit, BloodHound, Impacket |
 
 ---
 
@@ -50,24 +51,65 @@ My expertise bridges the gap between high-level network infrastructure security 
 | **Splunk Security Lab** | Home lab simulating real-world attacks with detection engineering and dashboard creation | Splunk, Sysmon, Kali Linux |
 | **Threat Detection Rules** | Custom SPL queries for detecting brute force, PowerShell abuse, and lateral movement | Splunk, MITRE ATT&CK |
 | **Network Forensics** | PCAP analysis and traffic investigation exercises | Wireshark, Tshark |
+| **Active Directory Lab** | AD environment with attack simulation and defense strategies | Windows Server, BloodHound, Impacket |
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Security Tools
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-1C4E80?style=flat-square&logo=wazuh&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-1A1A1A?style=flat-square&logo=crowdstrike&logoColor=white)
+
+### Network Analysis
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Zeek](https://img.shields.io/badge/-Zeek-2B5B84?style=flat-square&logo=zeek&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+
+### Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kali](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### DevOps & Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+
+### Frameworks & Platforms
+![MITRE](https://img.shields.io/badge/-MITRE_ATT&CK-003B5C?style=flat-square&logo=mitre&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 
 ---
+
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Ali2&theme=react-dark&hide_border=true)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Ali2&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Ali2&layout=compact&theme=dark&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🏆 Certifications & Training
+
+- CompTIA Security+ (In Progress)
+- Splunk Fundamentals
+- Wireshark Network Analysis
+- MITRE ATT&CK Defender (MAD)
+- TryHackMe SOC Level 1 (In Progress)
 
 ---
 
@@ -77,7 +119,8 @@ My expertise bridges the gap between high-level network infrastructure security 
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdali02/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alifaizan20@outlook.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohdali02)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohd-Ali2)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/chan4o)
 
 </div>
 
@@ -85,3 +128,14 @@ My expertise bridges the gap between high-level network infrastructure security 
 - 📧 **Email:** alifaizan20@outlook.com
 
 ---
+
+## 📝 Quick Reference
+
+```bash
+# My usual toolbox
+- Splunk / Elastic for log analysis
+- Wireshark / Zeek for packet inspection
+- Kali for adversary simulation
+- Python / PowerShell for automation
+- Git for version control
+- MITRE ATT&CK for threat mapping
