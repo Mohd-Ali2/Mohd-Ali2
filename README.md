@@ -85,13 +85,3 @@ My expertise bridges the gap between high-level network infrastructure security 
 - 📧 **Email:** alifaizan20@outlook.com
 
 ---
-
-## 📝 Quick Reference
-
-```bash
-# My usual toolbox
-- Splunk for log analysis
-- Wireshark for packet inspection
-- Kali for adversary simulation
-- Python for automation
-- Git for version control
