@@ -24,5 +24,5 @@ Dedicated security professional with a technical focus on Blue Team operations, 
 
 ### **Contact Information**
 * **Location:** Mumbai, India
-* **LinkedIn:** https://www.linkedin.com/in/mohdali02/
+* ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=24)**LinkedIn:** https://www.linkedin.com/in/mohdali02/
 * **Email:** alifaizan20@outlook.com
