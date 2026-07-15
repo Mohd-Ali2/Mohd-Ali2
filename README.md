@@ -92,24 +92,6 @@ My expertise bridges the gap between high-level network infrastructure security 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Ali2&theme=react-dark&hide_border=true)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Ali2&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Ali2&layout=compact&theme=dark&hide_border=true" width="48%" />
-</div>
-
----
-
-## 🏆 Certifications & Training
-
-- CompTIA Security+ (In Progress)
-- Splunk Fundamentals
-- Wireshark Network Analysis
-- MITRE ATT&CK Defender (MAD)
-- TryHackMe SOC Level 1 (In Progress)
 
 ---
 
@@ -128,14 +110,3 @@ My expertise bridges the gap between high-level network infrastructure security 
 - 📧 **Email:** alifaizan20@outlook.com
 
 ---
-
-## 📝 Quick Reference
-
-```bash
-# My usual toolbox
-- Splunk / Elastic for log analysis
-- Wireshark / Zeek for packet inspection
-- Kali for adversary simulation
-- Python / PowerShell for automation
-- Git for version control
-- MITRE ATT&CK for threat mapping
