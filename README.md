@@ -16,34 +16,6 @@ My expertise bridges the gap between high-level network infrastructure security 
 
 ---
 
-## 🎯 Core Competencies
-
-### 🔐 Security Operations (SOC)
-
-| Area | Skills |
-|------|--------|
-| **SIEM/EDR** | Wazuh, Splunk, Elastic Stack (ELK), CrowdStrike |
-| **Frameworks** | MITRE ATT&CK, NIST 800-61 (Incident Handling), Cyber Kill Chain |
-| **Analysis** | Log triage, false-positive reduction, alert enrichment, threat hunting, IOC extraction |
-
-### 🌐 Networking & Protocols
-
-| Area | Skills |
-|------|--------|
-| **Traffic Analysis** | Wireshark, Tshark, PCAP forensics, Zeek (Bro) |
-| **Protocols** | TCP/IP stack, DNS, HTTP/S, SSH, ICMP, ARP |
-| **Services** | VPN, Firewall configuration, DHCP/DNS management, Proxy |
-
-### 💻 Technical Environment
-
-| Area | Skills |
-|------|--------|
-| **OS** | Linux (Ubuntu, Kali, Debian), Windows Server, Windows 10/11 |
-| **Scripting** | Bash (Automation), Python (Task Scripting), PowerShell |
-| **Tools** | Nmap, Netcat, OpenSSL, Git, Metasploit, BloodHound, Impacket |
-
----
-
 
 ## 🛠️ Tech Stack
 
