@@ -68,7 +68,7 @@ My expertise bridges the gap between high-level network infrastructure security 
 
 </div>
 
-- 📍 **Location:** Mumbai, India
-- 📧 **Email:** alifaizan20@outlook.com
+-  **Location:** Mumbai, India
+-  **Email:** alifaizan20@outlook.com
 
 ---
