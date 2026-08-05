@@ -8,7 +8,7 @@
 
 ---
 
-##About Me
+## About Me
 
 Dedicated security professional with a technical focus on **Blue Team** operations, specialized in real-time threat detection and incident response orchestration. Currently focused on advancing L1 SOC methodologies, I specialize in dissecting complex log telemetry to distinguish between environmental noise and genuine adversarial indicators.
 
@@ -17,7 +17,7 @@ My expertise bridges the gap between high-level network infrastructure security 
 ---
 
 
-##Tech Stack
+## Tech Stack
 
 ### Security Tools
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
@@ -50,14 +50,14 @@ My expertise bridges the gap between high-level network infrastructure security 
 
 ---
 
-##Activity Graph
+## Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Ali2&theme=react-dark&hide_border=true)
 
 
 ---
 
-##Let's Connect
+## Let's Connect
 
 <div align="center">
   
