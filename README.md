@@ -51,8 +51,7 @@ My expertise bridges the gap between high-level network infrastructure security 
 
 ## Activity Graph
 
-![GitHub Activity Graph](https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=Mohd-Ali2&theme=react-dark&hide_border=true)
-
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=Mohd-Ali2&theme=react-dark&hide_border=true)
 
 ---
 
