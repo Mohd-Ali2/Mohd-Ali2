@@ -89,14 +89,6 @@ I'm interested in understanding the complete ML workflow, from data preparation 
 
 ---
 
-## Currently Learning
-
-- Strengthening practical SOC investigation and detection skills.
-- Improving my understanding of machine learning, deep learning, and NLP.
-- Writing cleaner, more reproducible code.
-- Developing scripting, automation, and software engineering skills.
-
----
 
 ## Connect With Me
 
